@@ -11,4 +11,4 @@ Started: 28th June 2024
    ◻️ : Notes VCS  
 ## Week 1 ():
 ### Day 1:
-- [✔️] []()
+- [⭕] []()
