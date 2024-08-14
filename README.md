@@ -1,4 +1,4 @@
-# CyberSecurityResearch
+# CyberSecurity Research
 Repository for tracking my research progress.
 
 Started: 28th June 2024
