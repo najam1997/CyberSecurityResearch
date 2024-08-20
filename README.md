@@ -12,7 +12,7 @@ Started: 18th August 2024
 ## Week 1 ():
 ### Day 1:
 - [✔️] Read about [XSS through PDF](https://gitlab.com/gitlab-org/gitlab/-/issues/462748)
-- [✔️] Researched on [automating enumeration techniques using automated scanners](https://labs.detectify.com/ethical-hacking/hakluke-creating-the-perfect-bug-bounty-automation/). 
+- [✔️] Researched on [automating enumeration techniques](https://labs.detectify.com/ethical-hacking/hakluke-creating-the-perfect-bug-bounty-automation/). 
 ### Day 2:
-- [⭕] 
+- [⭕] Researched on nuclei templates
 - [⭕] 
