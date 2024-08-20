@@ -1,5 +1,5 @@
 # CyberSecurity Research
-Repository for researching and hunting vulnerabilities in the real-world scenario. As well as automating the j
+Repository for researching and hunting vulnerabilities in the real-world scenario as well as automating them. 
 
 Started: 18th August 2024
 
