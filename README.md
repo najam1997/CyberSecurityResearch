@@ -16,6 +16,6 @@ Started: 18th August 2024
 ### Day 2:
 - [✔️] Researched on nuclei templates and reviewed basic tools such as subdomainer and httpx for recon.
 - [✔️] Researched on axiom and shadowclone for recon.
-### Day 2:
+### Day 3:
 - [⭕]
 - [⭕]
