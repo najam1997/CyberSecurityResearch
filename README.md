@@ -14,5 +14,8 @@ Started: 18th August 2024
 - [✔️] Read about [XSS through PDF](https://gitlab.com/gitlab-org/gitlab/-/issues/462748)
 - [✔️] Researched on [automating enumeration techniques](https://labs.detectify.com/ethical-hacking/hakluke-creating-the-perfect-bug-bounty-automation/). 
 ### Day 2:
-- [⭕] Researched on nuclei templates
-- [⭕] 
+- [✔️] Researched on nuclei templates and reviewed basic tools such as subdomainer and httpx for recon.
+- [✔️] Researched on axiom and shadowclone for recon.
+### Day 2:
+- [⭕]
+- [⭕]
