@@ -18,10 +18,10 @@ Started: 18th August 2024
 - [✔️] Researched on axiom and shadowclone for recon.
 ### Day 3:
 - [✔️] Overviewed [reconnaissance tools](https://infosecwriteups.com/top-recon-tools-for-bug-bounty-hunters-fa655b8caf2e)
-- [⭕] 
+- [⭕] https://gitlab.com/gitlab-org/gitlab/-/issues/452510
 ### Day 4:
 - [⭕] Researched on Shodan
-- [⭕]
+- [⭕] Read about [Stored XSS in diff](https://gitlab.com/gitlab-org/gitlab/-/issues/452510)
 ### Day 5:
 - [⭕]
 - [⭕]
