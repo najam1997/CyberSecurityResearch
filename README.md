@@ -20,5 +20,8 @@ Started: 18th August 2024
 - [✔️] Overviewed [reconnaissance tools](https://infosecwriteups.com/top-recon-tools-for-bug-bounty-hunters-fa655b8caf2e)
 - [⭕] 
 ### Day 4:
+- [⭕] Reserched on Shodan
+- [⭕]
+### Day 5:
 - [⭕]
 - [⭕]
