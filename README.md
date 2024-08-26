@@ -23,7 +23,7 @@ Started: 18th August 2024
 - [⭕] Researched on Shodan
 - [⭕] Read about [Stored XSS in diff](https://gitlab.com/gitlab-org/gitlab/-/issues/452510)
 ### Day 5:
-- [⭕]
+- [⭕] Researched on the reconnaissance for starting assessment.
 - [⭕]
 ### Day 6:
 - [⭕]
