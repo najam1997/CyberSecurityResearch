@@ -26,7 +26,7 @@ Started: 18th August 2024
 - [⭕] Researched on the reconnaissance for starting penetration testing.
 - [⭕]
 ### Day 6:
-- [⭕]
+- [⭕] Researched on the tool netlas.io, used for recon.
 - [⭕]
 ### Day 7:
 - [⭕]
