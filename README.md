@@ -31,3 +31,7 @@ Started: 18th August 2024
 ### Day 7:
 - [⭕]
 - [⭕]
+## Week 2 ():
+### Day 8:
+- [⭕]
+- [⭕]
