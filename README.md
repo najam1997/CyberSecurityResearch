@@ -33,7 +33,7 @@ Started: 18th August 2024
 - [⭕]
 ## Week 2 ():
 ### Day 8:
-- [⭕]
+- [✔️] Researched further on (reconnaissance)(https://medium.com/@aamurtazin/reconnaissance-tools-for-hacking-3b7576113699) for penetration testing.
 - [⭕]
 ### Day 9:
 - [⭕]
