@@ -13,14 +13,14 @@ Started: 18th August 2024
 ### Day 1:
 - [✔️] Read about [XSS through PDF](https://gitlab.com/gitlab-org/gitlab/-/issues/462748)
 - [✔️] Researched on [automating enumeration techniques](https://labs.detectify.com/ethical-hacking/hakluke-creating-the-perfect-bug-bounty-automation/).
-- [⭕]
+- [✔️] Understanding SSL Pinning and learning **Frida**.
 ### Day 2:
 - [✔️] Researched on nuclei templates and reviewed basic tools such as subdomainer and httpx for recon.
 - [✔️] Researched on axiom and shadowclone for recon.
-- [⭕]
+- [✔️] Understanding SSL Pinning and learning **Frida**.
 ### Day 3:
 - [✔️] Overviewed [reconnaissance tools](https://infosecwriteups.com/top-recon-tools-for-bug-bounty-hunters-fa655b8caf2e)
-- [⭕]
+- [✔️] Understanding SSL Pinning and learning **Frida**.
 - [⭕] https://gitlab.com/gitlab-org/gitlab/-/issues/452510
 ### Day 4:
 - [✔️] Researched on Shodan
