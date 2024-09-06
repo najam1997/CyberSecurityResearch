@@ -7,13 +7,13 @@ Started: 18th August 2024
    ✔️ : Completed  
    ❌ : Incomplete  
    ⭕ : In progress  
-   ◼️ : Notes Git  
-   ◻️ : Notes VCS  
+   ◼️ : Web Application Notes  
+   ◻️ : Mobile Application Notes  
 ## Week 1 ():
 ### Day 1:
 - [✔️] Read about [XSS through PDF](https://gitlab.com/gitlab-org/gitlab/-/issues/462748)
-- [✔️] Researched on [automating enumeration techniques](https://labs.detectify.com/ethical-hacking/hakluke-creating-the-perfect-bug-bounty-automation/).
-- [✔️] Understanding SSL Pinning and learning **Frida**.
+- [✔️] ◼️: Researched on [automating enumeration techniques](https://labs.detectify.com/ethical-hacking/hakluke-creating-the-perfect-bug-bounty-automation/).
+- [✔️] ◻️: Understanding SSL Pinning and learning **Frida**.
 ### Day 2:
 - [✔️] Researched on nuclei templates and reviewed basic tools such as subdomainer and httpx for recon.
 - [✔️] Researched on axiom and shadowclone for recon.
