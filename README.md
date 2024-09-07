@@ -24,7 +24,7 @@ Started: 18th August 2024
 - [⭕] https://gitlab.com/gitlab-org/gitlab/-/issues/452510
 ### Day 4:
 - [✔️] Researched on Shodan
-- [⭕]
+- [✔️] Learning to break SSL Pinng using Frida and scripts from Codeshare.
 - [⭕] Read about [Stored XSS in diff](https://gitlab.com/gitlab-org/gitlab/-/issues/452510)
 ### Day 5:
 - [✔️] Researched on the reconnaissance for starting penetration testing.
