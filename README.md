@@ -44,7 +44,7 @@ Started: 18th August 2024
 - [⭕]
 - [⭕]
 ### Day 9:
-- [⭕]
+- [⭕] Multiple Recon techniques and automated XSS techniques in this [article](https://infosecwriteups.com/how-i-found-multiple-xss-vulnerabilities-using-unknown-techniques-74f8e705ea0d).
 - [⭕]
 - [⭕]
 ### Day 10:
