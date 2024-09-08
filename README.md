@@ -9,7 +9,6 @@ Started: 18th August 2024
    ⭕ : In progress  
    ◼️ : Web Application Notes  
    ◻️ : Mobile Application Notes  
-## Week 1 ():
 ### Day 1:
 - [✔️] Read about [XSS through PDF](https://gitlab.com/gitlab-org/gitlab/-/issues/462748)
 - [✔️] ◼️: Researched on [automating enumeration techniques](https://labs.detectify.com/ethical-hacking/hakluke-creating-the-perfect-bug-bounty-automation/).
@@ -38,7 +37,6 @@ Started: 18th August 2024
 - [✔️] Researched on GAU and GAUplus for reconnaissance.
 - [⭕]
 - [⭕]
-## Week 2 ():
 ### Day 8:
 - [✔️] Researched further on [reconnaissance](https://medium.com/@aamurtazin/reconnaissance-tools-for-hacking-3b7576113699) for penetration testing.
 - [⭕]
@@ -67,7 +65,6 @@ Started: 18th August 2024
 - [⭕]
 - [⭕]
 - [⭕]
-## Week 3 ():
 ### Day 15:
 - [⭕]
 - [⭕]
@@ -85,6 +82,10 @@ Started: 18th August 2024
 - [⭕]
 - [⭕]
 ### Day 19:
+- [⭕]
+- [⭕]
+- [⭕]
+### Day 20:
 - [⭕]
 - [⭕]
 - [⭕]
