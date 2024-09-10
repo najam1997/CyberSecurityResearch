@@ -27,7 +27,7 @@ Started: 18th August 2024
 - [⭕] Read about [Stored XSS in diff](https://gitlab.com/gitlab-org/gitlab/-/issues/452510)
 ### Day 5:
 - [✔️] Researched on the reconnaissance for starting penetration testing.
-- [⭕]
+- [✔️] Researched on mobile penetration testing through [r2frida](https://github.com/nowsecure/r2frida)
 - [⭕]
 ### Day 6:
 - [✔️] Researched on the tool netlas.io, used for recon.
