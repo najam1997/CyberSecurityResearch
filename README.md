@@ -50,7 +50,7 @@ Started: 18th August 2024
 - [⭕]
 - [⭕]
 ### Day 11:
-- [✔️] Discovered a (tool)[https://app.pentest-tools.com/login] for automated recon and pentesting.
+- [✔️] Discovered a [tool](https://app.pentest-tools.com/login) for automated recon and pentesting.
 - [⭕]
 - [⭕]
 ### Day 12:
