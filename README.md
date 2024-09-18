@@ -54,7 +54,7 @@ Started: 18th August 2024
 - [⭕]
 - [⭕]
 ### Day 12:
-- [⭕]
+- [⭕] Watched live recon by Tomnomnom and Nahamsec on Youtube.
 - [⭕]
 - [⭕]
 ### Day 13:
