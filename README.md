@@ -28,10 +28,10 @@ Started: 18th August 2024
 ### Day 5:
 - [✔️] Researched on the reconnaissance for starting penetration testing.
 - [✔️] Researched on mobile penetration testing through [r2frida](https://github.com/nowsecure/r2frida)
-- [⭕]
+- [✔️] Researched on client side vulnerabilities through the work of [Youssef Sammouda](https://www.youtube.com%2Fwatch%3Fv%3DU8lZKlz9bN0&usg=AOvVaw0NWwHocV6I0aRuysDSN6mV&opi=89978449)
 ### Day 6:
 - [✔️] Researched on the tool netlas.io, used for recon.
-- [⭕]
+- [⭕] 
 - [⭕]
 ### Day 7:
 - [✔️] Researched on GAU and GAUplus for reconnaissance.
@@ -58,7 +58,7 @@ Started: 18th August 2024
 - [⭕]
 - [⭕]
 ### Day 13:
-- [⭕]
+- [⭕] 
 - [⭕]
 - [⭕]
 ### Day 14:
