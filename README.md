@@ -58,7 +58,7 @@ Started: 18th August 2024
 - [⭕]
 - [⭕]
 ### Day 13:
-- [⭕] 
+- [⭕] Used netlas.io to enumerate Github.com
 - [⭕]
 - [⭕]
 ### Day 14:
