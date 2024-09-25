@@ -62,7 +62,7 @@ Started: 18th August 2024
 - [⭕]
 - [⭕]
 ### Day 14:
-- [⭕]
+- [✔️] Analyzed netlas.io results w.r.t Github.com
 - [⭕]
 - [⭕]
 ### Day 15:
