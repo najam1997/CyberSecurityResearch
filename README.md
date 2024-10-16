@@ -31,7 +31,7 @@ Started: 18th August 2024
 - [✔️] Researched on client side vulnerabilities through the work of [Youssef Sammouda](https://www.youtube.com%2Fwatch%3Fv%3DU8lZKlz9bN0&usg=AOvVaw0NWwHocV6I0aRuysDSN6mV&opi=89978449)
 ### Day 6:
 - [✔️] Researched on the tool netlas.io, used for recon.
-- [⭕] 
+- [✔️] Beyond XSS [Chapter 1](https://aszx87410.github.io/beyond-xss/en/)
 - [⭕]
 ### Day 7:
 - [✔️] Researched on GAU and GAUplus for reconnaissance.
