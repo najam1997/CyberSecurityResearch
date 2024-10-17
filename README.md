@@ -31,27 +31,27 @@ Started: 18th August 2024
 - [✔️] Researched on client side vulnerabilities through the work of [Youssef Sammouda](https://www.youtube.com%2Fwatch%3Fv%3DU8lZKlz9bN0&usg=AOvVaw0NWwHocV6I0aRuysDSN6mV&opi=89978449)
 ### Day 6:
 - [✔️] Researched on the tool netlas.io, used for recon.
-- [✔️] Beyond XSS [Chapter 1](https://aszx87410.github.io/beyond-xss/en/)
+- [✔️] Started Beyond XSS [Chapter 1](https://aszx87410.github.io/beyond-xss/en/)
 - [⭕]
 ### Day 7:
 - [✔️] Researched on GAU and GAUplus for reconnaissance.
-- [⭕]
+- [✔️] Completed Beyond XSS [Chapter 1](https://aszx87410.github.io/beyond-xss/en/)
 - [⭕]
 ### Day 8:
 - [✔️] Researched further on [reconnaissance](https://medium.com/@aamurtazin/reconnaissance-tools-for-hacking-3b7576113699) for penetration testing.
-- [⭕]
+- [✔️] Started Beyond XSS [Chapter 2](https://aszx87410.github.io/beyond-xss/en/)
 - [⭕]
 ### Day 9:
 - [✔️] Multiple Recon techniques and automated XSS techniques in this [article](https://infosecwriteups.com/how-i-found-multiple-xss-vulnerabilities-using-unknown-techniques-74f8e705ea0d).
-- [⭕]
+- [✔️] Completed Beyond XSS [Chapter 2](https://aszx87410.github.io/beyond-xss/en/)
 - [⭕]
 ### Day 10:
 - [✔️] Learnt about a recon tool named [Ashok](https://github.com/powerexploit/Ashok)
-- [⭕]
+- [✔️] Started Beyond XSS [Chapter 3](https://aszx87410.github.io/beyond-xss/en/)
 - [⭕]
 ### Day 11:
 - [✔️] Discovered a [tool](https://app.pentest-tools.com/login) for automated recon and pentesting.
-- [⭕]
+- [✔️] Continued Beyond XSS [Chapter 3](https://aszx87410.github.io/beyond-xss/en/)
 - [⭕]
 ### Day 12:
 - [✔️] Watched live recon by Tomnomnom and Nahamsec on Youtube.
