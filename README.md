@@ -66,7 +66,7 @@ Started: 18th August 2024
 - [⭕]
 - [⭕]
 ### Day 15:
-- [⭕]
+- [⭕] Checked out a list of [search engines](https://securitycipher.com/docs/security/security-resources/search-engines-for-hackers/) for recon.
 - [⭕]
 - [⭕]
 ### Day 16:
