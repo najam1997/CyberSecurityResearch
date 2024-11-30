@@ -79,3 +79,4 @@ Started: 18th August 2024
 ### https://danaepp.com/automate-your-api-hacking-with-autorize
 ### https://danaepp.com/the-api-hackers-guide-to-payload-injection-with-postman
 ### https://danaepp.com/how-adversaries-attack-apis-through-dependencies
+### https://danaepp.com/hacking-a-net-api-in-the-real-world
