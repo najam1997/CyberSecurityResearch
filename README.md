@@ -84,3 +84,4 @@ Started: 18th August 2024
 ### https://danaepp.com/structured-format-injection
 ### https://security.humanativaspa.it/extending-burp-suite-for-fun-and-profit-the-montoya-way-part-8/
 ### https://blog.voorivex.team/from-an-android-hook-to-rce-5000-bounty
+### https://blog.sicuranext.com/breaking-down-multipart-parsers-validation-bypass/
