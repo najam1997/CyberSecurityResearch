@@ -82,3 +82,4 @@ Started: 18th August 2024
 ### https://blog.oversecured.com/Android-security-checklist-webview
 ### https://laburity.com/performing-android-static-analysis-101-a-complete-guide-for-beginners/
 ### https://shreyaschavhan.notion.site/The-4M-Methodology-for-Choosing-the-Right-Bug-Bounty-Programs-to-Hunt-On-Cross-Applying-Finance-to-144a53e43119800e87e0d1039235c6c9
+### https://dvuln.com/blog/modern-ios-pentesting-no-jailbreak-needed
