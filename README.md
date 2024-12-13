@@ -79,3 +79,4 @@ Started: 18th August 2024
 ### https://blog.sicuranext.com/breaking-down-multipart-parsers-validation-bypass/
 ### https://www.yeswehack.com/learn-bug-bounty/pimpmyburp-signsaboteur-burpsuite-extension?utm_source=twitter&utm_medium=banner&utm_campaign=signsaboteur
 ### https://gist.github.com/DanaEpp/ca4b612734e73b4cf46ae6eeab6626b6
+### https://blog.oversecured.com/Android-security-checklist-webview
