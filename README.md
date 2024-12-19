@@ -84,3 +84,4 @@ Started: 18th August 2024
 ### https://shreyaschavhan.notion.site/The-4M-Methodology-for-Choosing-the-Right-Bug-Bounty-Programs-to-Hunt-On-Cross-Applying-Finance-to-144a53e43119800e87e0d1039235c6c9
 ### https://dvuln.com/blog/modern-ios-pentesting-no-jailbreak-needed
 ### https://blog.convisoappsec.com/en/introduction-to-fuzzing-android-native-components/
+### https://blog.intigriti.com/hacking-tools/broken-authentication-a-complete-guide-to-exploiting-advanced-authentication-vulnerabilities
